@@ -1,7 +1,9 @@
 package main
 
-import "golc/middle"
+import (
+    "golc/easy"
+)
 
 func main() {
-    middle.TwoSumCase()
+    easy.ExcelSheetColumnTitleCase()
 }
