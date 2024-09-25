@@ -1,9 +1,7 @@
 package main
 
-import (
-    "golc/easy"
-)
+import "golc/easy"
 
 func main() {
-    easy.ExcelSheetColumnTitleCase()
+    easy.AddBinaryCase()
 }
